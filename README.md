@@ -24,4 +24,5 @@
 **3. API 명세**
 
 **3. 개발 과정**
-- velog에 정리 예정 
+- [프로젝트 세팅, 개발 시작 (1)](https://velog.io/@bon0057/%EA%B2%8C%EC%8B%9C%ED%8C%90-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%84%B8%ED%8C%85-%EA%B0%9C%EB%B0%9C-%EC%8B%9C%EC%9E%91-1)
+- [ERD 설계 및 JPA 엔티티 매핑(2)]https://velog.io/@bon0057/%EA%B2%8C%EC%8B%9C%ED%8C%90-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-ERD-%EC%84%A4%EA%B3%84-%EB%B0%8F-JPA-%EC%97%94%ED%8B%B0%ED%8B%B0-%EB%A7%A4%ED%95%91
