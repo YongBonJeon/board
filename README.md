@@ -18,7 +18,8 @@
 
 **3. ERD**
 - V1
-![Board_Project_20230601_105953](https://github.com/YongBonJeon/board/assets/64811971/13d2fa1c-6e8b-4775-80db-23d96663667f.png)
+![Board_Project_20230601_105953](https://github.com/YongBonJeon/board/assets/64811971/f149d6d4-b29e-4c09-91e3-94ca20cc71eb)
+
   - 기본적인 회원, 게시글, 답글, 댓글 구조를 가진 데이터베이스 설계
 
 **3. API 명세**
