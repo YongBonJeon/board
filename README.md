@@ -19,6 +19,8 @@
 **3. ERD**
 - V1
 ![Board_Project_20230601_105953](https://github.com/YongBonJeon/board/assets/64811971/f149d6d4-b29e-4c09-91e3-94ca20cc71eb)
+- V2
+![Board_Project_20230601_140748](https://github.com/YongBonJeon/board/assets/64811971/acc5da0a-e9b8-4cd0-a8e9-d66cda4dcf92)
 
   - 기본적인 회원, 게시글, 답글, 댓글 구조를 가진 데이터베이스 설계
 
@@ -27,3 +29,4 @@
 **3. 개발 과정**
 - [프로젝트 세팅, 개발 시작 (1)](https://velog.io/@bon0057/%EA%B2%8C%EC%8B%9C%ED%8C%90-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%84%B8%ED%8C%85-%EA%B0%9C%EB%B0%9C-%EC%8B%9C%EC%9E%91-1)
 - [ERD 설계 및 JPA 엔티티 매핑(2)](https://velog.io/@bon0057/%EA%B2%8C%EC%8B%9C%ED%8C%90-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-ERD-%EC%84%A4%EA%B3%84-%EB%B0%8F-JPA-%EC%97%94%ED%8B%B0%ED%8B%B0-%EB%A7%A4%ED%95%91)
+- [Repository, Service(CRUD+) 구현 (3)](https://velog.io/@bon0057/%EA%B2%8C%EC%8B%9C%ED%8C%90-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-Repository-ServiceCRUD-%EA%B5%AC%ED%98%84-3)
